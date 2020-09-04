@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/adminv1/.vs/adminv1/v16
+/adminv1/adminv1/obj
